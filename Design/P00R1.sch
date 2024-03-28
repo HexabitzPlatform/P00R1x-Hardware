@@ -3993,7 +3993,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="199.4662" y="19.6342" size="1.9304" layer="100" font="vector">Title</text>
 <text x="180.9242" y="19.6342" size="1.9304" layer="102" font="vector">P00R1</text>
 <text x="191.9478" y="11.2014" size="1.9304" layer="101" font="vector" align="center">Mounting Hole</text>
-<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">P00R1_Backend</text>
+<text x="206.3242" y="19.6342" size="1.9304" layer="101" font="vector">P00R1_Frontend</text>
 <wire x1="168.91" y1="3.81" x2="168.91" y2="8.128" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="8.128" x2="168.91" y2="18.288" width="0.1524" layer="205"/>
 <wire x1="168.91" y1="18.288" x2="168.91" y2="22.86" width="0.1524" layer="205"/>
